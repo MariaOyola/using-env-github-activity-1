@@ -8,5 +8,6 @@
  
  <include file="changelog/changes/HU-01/001-init.xml"/>
  <include file="changelog/changes/HU-02/002-usuario-update.xml"/>
+ <include file="changelog/changes/HU-03/003-producto.xml"/>
 
 </databaseChangeLog>
